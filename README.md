@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm SkyeSkyeSkyeSkyeSkye</h1>
-<p align="center"> I'm a Ching Chong.</p>
+<p align="center"> I'm a person.</p>
 
 ## 🏗️ What I'm Building
 
